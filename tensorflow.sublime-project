@@ -15,6 +15,7 @@
 	],
 	"settings":
 	{
-		"python_interpreter": "/Users/chengyang/anaconda3/envs/tensorflow/bin/python"
+		"python_interpreter": "/Users/chengyang/anaconda3/envs/tensorflow/bin/python",
+		"auto_formatting":true
 	}
 }
